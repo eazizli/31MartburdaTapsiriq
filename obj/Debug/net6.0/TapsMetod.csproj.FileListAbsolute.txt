@@ -1,0 +1,15 @@
+C:\Users\ClassTime\Downloads\TapsMetod\bin\Debug\net6.0\TapsMetod.exe
+C:\Users\ClassTime\Downloads\TapsMetod\bin\Debug\net6.0\TapsMetod.deps.json
+C:\Users\ClassTime\Downloads\TapsMetod\bin\Debug\net6.0\TapsMetod.runtimeconfig.json
+C:\Users\ClassTime\Downloads\TapsMetod\bin\Debug\net6.0\TapsMetod.dll
+C:\Users\ClassTime\Downloads\TapsMetod\bin\Debug\net6.0\TapsMetod.pdb
+C:\Users\ClassTime\Downloads\TapsMetod\obj\Debug\net6.0\TapsMetod.csproj.AssemblyReference.cache
+C:\Users\ClassTime\Downloads\TapsMetod\obj\Debug\net6.0\TapsMetod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClassTime\Downloads\TapsMetod\obj\Debug\net6.0\TapsMetod.AssemblyInfoInputs.cache
+C:\Users\ClassTime\Downloads\TapsMetod\obj\Debug\net6.0\TapsMetod.AssemblyInfo.cs
+C:\Users\ClassTime\Downloads\TapsMetod\obj\Debug\net6.0\TapsMetod.csproj.CoreCompileInputs.cache
+C:\Users\ClassTime\Downloads\TapsMetod\obj\Debug\net6.0\TapsMetod.dll
+C:\Users\ClassTime\Downloads\TapsMetod\obj\Debug\net6.0\refint\TapsMetod.dll
+C:\Users\ClassTime\Downloads\TapsMetod\obj\Debug\net6.0\TapsMetod.pdb
+C:\Users\ClassTime\Downloads\TapsMetod\obj\Debug\net6.0\TapsMetod.genruntimeconfig.cache
+C:\Users\ClassTime\Downloads\TapsMetod\obj\Debug\net6.0\ref\TapsMetod.dll
